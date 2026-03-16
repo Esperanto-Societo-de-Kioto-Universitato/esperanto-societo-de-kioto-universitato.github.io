@@ -29,7 +29,7 @@ permalink: /iloj/
 
 <div class="social-badges" markdown="0">
   <a href="https://esperanto-kanji-converter-and-ruby-annotation-tool.streamlit.app/" target="_blank" rel="noopener">アプリを開く</a>
-  <a href="https://github.com/Takatakatake/Esperanto-Kanji-Converter-and-Ruby-Annotation-Tool" target="_blank" rel="noopener">GitHub</a>
+  <a href="https://github.com/Takatakatake/Esperanto-Kanji-Converter-and-Ruby-Annotation-Tool-" target="_blank" rel="noopener">GitHub</a>
 </div>
 
 ---
