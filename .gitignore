@@ -1,3 +1,5 @@
 _site/
 _image/
 .jekyll-cache/
+.bundle/
+vendor/bundle/

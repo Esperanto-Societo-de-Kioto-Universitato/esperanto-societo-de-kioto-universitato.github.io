@@ -34,7 +34,11 @@ permalink: /
 
 ![海外から来たエスペランチストとの交流の様子]({{ '/assets/img/exchange-with-foreign-esperantists.jpg' | relative_url }})
 
-部室にはときどき海外のエスペランチストが訪ねてくださることもあります。（写真はフランス・アイルランドからのお客様）
+部室にはときどき海外のエスペランチストが訪ねてくださいます。（写真はフランス・アイルランドからのお客様）
+
+![ポーランドからのお客様との交流の様子]({{ '/assets/img/guests-from-poland.jpg' | relative_url }})
+
+ポーランドからのお客様をお迎えし、部室で交流しました。
 
 ![東アジア青年エスペラントセミナー(Komuna Seminario)の様子（北海道にて）]({{ '/assets/img/komuna-seminario.jpg' | relative_url }})
 

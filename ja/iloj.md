@@ -13,6 +13,8 @@ permalink: /iloj/
 
 エスペラントの文章に、日本語訳のルビ（ふりがな形式の注釈）を自動で振ったり、漢字への置換を行ったりするツールです。エスペラント文を読みながら語彙を確認できるため、学習や読解の補助として役立ちます。
 
+実際の出力例は、[輪読用教材のサンプルページ](https://esperanto-societo-de-kioto-universitato.github.io/Esperanto_html_dokumentoj/rondolegada_materialoj_202603_enhavoj_JA.html){:target="_blank" rel="noopener"} でも確認できます。
+
 ![エスペラント文にルビ注釈を振った結果の例]({{ '/assets/img/converter-result.png' | relative_url }})
 
 ### 主な機能
@@ -59,6 +61,6 @@ permalink: /iloj/
 - **スパルタモード** — 間違えた問題だけを繰り返し復習し、全問正解するまで終わらない復習機能
 
 <div class="social-badges" markdown="0">
-  <a href="https://esperantowords4choicequizzes-bzgev2astlasx4app3futb.streamlit.app/" target="_blank" rel="noopener">例文篇を開く</a>
-  <a href="https://esperantowords4choicequizzes-tiexjo7fx5elylbsywxgxz.streamlit.app/" target="_blank" rel="noopener">単語篇を開く</a>
+  <a href="https://esperantowords4choicequizzes-tiexjo7fx5elylbsywxgxz.streamlit.app/" target="_blank" rel="noopener">例文篇を開く</a>
+  <a href="https://esperantowords4choicequizzes-bzgev2astlasx4app3futb.streamlit.app/" target="_blank" rel="noopener">単語篇を開く</a>
 </div>
