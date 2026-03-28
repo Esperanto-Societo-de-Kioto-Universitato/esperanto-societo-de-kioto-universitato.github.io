@@ -13,7 +13,7 @@ Ni prezentas retajn aplikaĵojn por lernado kaj uzo de Esperanto, kreitajn de ni
 
 Ĉi tiu ilo aŭtomate aldonas japanlingvajn tradukojn en rubi-formo super Esperanto-vortoj, kaj ankaŭ povas anstataŭigi radikojn per kanĵioj. Tiel oni povas legi Esperanto-tekstojn kun tuj videblaj vortklarigoj.
 
-Ekzemplon de la eligo en la japana vi povas vidi ankaŭ en [ĉi tiu demonstra paĝo](https://esperanto-societo-de-kioto-universitato.github.io/Esperanto_html_dokumentoj/rondolegada_materialoj_202603_enhavoj_JA.html){:target="_blank" rel="noopener"}.
+Ekzemplon de la eligo en la japana vi povas vidi ankaŭ en [ĉi tiu demonstra paĝo](https://takatakatake.github.io/esperanto_html/vere-aux-fantazie/index.html){:target="_blank" rel="noopener"}.
 
 ![Ekzemplo de Esperanto-teksto kun rubi-anotacioj]({{ '/assets/img/converter-result.png' | relative_url }})
 
