@@ -13,7 +13,7 @@ permalink: /iloj/
 
 エスペラントの文章に、日本語訳のルビ（ふりがな形式の注釈）を自動で振ったり、漢字への置換を行ったりするツールです。エスペラント文を読みながら語彙を確認できるため、学習や読解の補助として役立ちます。
 
-実際の出力例は、[輪読用教材のサンプルページ](https://esperanto-societo-de-kioto-universitato.github.io/Esperanto_html_dokumentoj/rondolegada_materialoj_202603_enhavoj_JA.html){:target="_blank" rel="noopener"} でも確認できます。
+実際の出力例は、[輪読用教材のサンプルページ](https://takatakatake.github.io/esperanto_html/vere-aux-fantazie/index.html){:target="_blank" rel="noopener"} でも確認できます。
 
 ![エスペラント文にルビ注釈を振った結果の例]({{ '/assets/img/converter-result.png' | relative_url }})
 
